@@ -1,3 +1,5 @@
+# Supa Social
+
 This project is a simple social media app developed as part of the Software Development and Mobile Systems course at LETI - ISEP.
 
 It was created in a team of two with the goal of learning how to build cross-platform mobile applications using modern development practices.

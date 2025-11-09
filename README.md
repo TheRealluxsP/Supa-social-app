@@ -4,4 +4,4 @@ It was created in a team of two with the goal of learning how to build cross-pla
 
 💡 Note: The project was initially hosted on a university account. After completion, it was migrated to this personal repository — hence the single commit history.
 
-All information regarding this project can be found in the [Technical Report](DSSMV_PojectReact_1230439_1231002.pdf)
+All information regarding this project can be found in the [Technical Report](DSSMV_ProjectReact_1230439_1231002.pdf) (written in portuguese).
